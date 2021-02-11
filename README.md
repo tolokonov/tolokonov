@@ -12,5 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-###Languages and tools:
-- ![Python](https://img.shields.io/badge/-Python-FFCC22?style-for-the-badge&logo=python))
+### Languages and tools:
+- ![Python](https://img.shields.io/badge/-Python-FFCC22?style-for-the-badge&logo=python)
+- ![C++](https://img.shields.io/badge/-C++-00599C?style=for-th..)
+- ![Java](https://img.shields.io/badge/-Java-red?style=for-the-..)
+- ![Jupyter](https://img.shields.io/badge/-Jupyter-white?style=for..)
+- ![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=f..)
+- ![Linux](https://img.shields.io/badge/-Linux-white?style=for-t..)
+- ![Android-Studio](https://img.shields.io/badge/-Android_Studio-white?st..)
