@@ -14,5 +14,5 @@ Some info about me:
 - ![Python](https://img.shields.io/badge/-Python-FFCC22?style-for-the-badge&logo=python)
 - ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2b%2b)
 - ![Java](https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=java)
-- ![Intellij-IDEA](https://img.shields.io/badge/-Intellij_IDEA-black?style=for-the-badge&logo=intellij-idea)
+- ![Intellij-IDEA](https://img.shields.io/badge/-Intellij_IDEA-gray?style=for-the-badge&logo=intellij-idea)
 - ![Android-Studio](https://img.shields.io/badge/-Android_Studio-white?style=for-the-badge&logo=android-studio)
