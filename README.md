@@ -20,7 +20,3 @@ Some info about me:
 ## 𝗦𝘁𝗮𝘁𝘀
 
 ![Tolokonov's github stats](https://github-readme-stats.vercel.app/api?username=tolokonov&show_icons=true&theme=dracula)
-
-## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
-
-![visitors](https://tolokonov-visitor-badge.glitch.me/badge?page_id=tolokonov.tolokonov)
