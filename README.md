@@ -15,4 +15,4 @@ Some info about me:
 - ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2b%2b)
 - ![Java](https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=java)
 - ![Android-Studio](https://img.shields.io/badge/-Android_Studio-white?style=for-the-badge&logo=android-studio)
-- ![Intellij-IDEA](https://img.shields.io/badge/-Intellij-IDEA?style=for-the-badge&logo=https://simpleicons.org/icons/intellijidea.svg)
+- ![Intellij-IDEA](https://img.shields.io/badge/-Intellij-IDEA?style=for-the-badge&logo=intellij-idea)
