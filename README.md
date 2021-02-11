@@ -1,14 +1,13 @@
 ### Hi there 👋
 
 
-Here are some ideas to get you started:
+Some info about me:
 
-- 🔭 I’m currently working on ...
+- 🔭 I work with my team in the organisation - studio 22 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 💬 Ask me about 
+- 📫 How to reach me: ![itolokonov@mail.ru]
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
@@ -17,7 +16,5 @@ Here are some ideas to get you started:
 - ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2b%2b)
 - ![Java](https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=java)
 - ![Google-Colab](https://img.shields.io/badge/-Colab-white?style-for-the-badge&logo=google-colab)
-- ![Jupyter](https://img.shields.io/badge/-Jupyter-white?style=for-the-badge&logo=jupyter)
-- ![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram)
-- ![Linux](https://img.shields.io/badge/-Linux-white?style=for-the-badge&logo=linux)
 - ![Android-Studio](https://img.shields.io/badge/-Android_Studio-white?style=for-the-badge&logo=android-studio)
+- ![Intellij IDEA](https://img.shields.io/badge/-Intellij IDEA-FFCC22?style-for-the-badge&logo=Intellij IDEA)
