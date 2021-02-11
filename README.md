@@ -4,7 +4,7 @@
 Some info about me:
 
 - 🔭 I work with my team in the organisation - studio 22
-- 🌱 I’m a second year student
+- 🌱 I’m a second-year student
 - 👯 I’m looking to collaborate on with developers to create new joint projects
 - 💬 Ask me about java and data structers
 - 📫 How to reach me: itolokonov@mail.ru
