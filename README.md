@@ -15,4 +15,4 @@ Some info about me:
 - ![Java](https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=java)
 - ![Google-Colab](https://img.shields.io/badge/-Colab-white?style-for-the-badge&logo=google-colab)
 - ![Android-Studio](https://img.shields.io/badge/-Android_Studio-white?style=for-the-badge&logo=android-studio)
-- ![Intellij-IDEA](https://img.shields.io/badge/Intellij%20IDEA-Intellij%20IDEA-lightgrey)
+- ![Intellij-IDEA](https://img.shields.io/badge/Intellij-Intellij%20IDEA-lightgrey)
