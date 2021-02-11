@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 
 ### Languages and tools:
 - ![Python](https://img.shields.io/badge/-Python-FFCC22?style-for-the-badge&logo=python)
-- ![C++](https://img.shields.io/badge/-C++-00599C?style=for-th..)
-- ![Java](https://img.shields.io/badge/-Java-red?style=for-the-..)
+- ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2b%2b)
+- ![Java](https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=java)
 - ![Google-Colab](https://img.shields.io/badge/-Colab-white?style-for-the-badge&logo=google-colab)
-- ![Jupyter](https://img.shields.io/badge/-Jupyter-white?style=for..)
-- ![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=f..)
-- ![Linux](https://img.shields.io/badge/-Linux-white?style=for-t..)
-- ![Android-Studio](https://img.shields.io/badge/-Android_Studio-white?st..)
+- ![Jupyter](https://img.shields.io/badge/-Jupyter-white?style=for-the-badge&logo=jupyter)
+- ![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram)
+- ![Linux](https://img.shields.io/badge/-Linux-white?style=for-the-badge&logo=linux)
+- ![Android-Studio](https://img.shields.io/badge/-Android_Studio-white?style=for-the-badge&logo=android-studio)
