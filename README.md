@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 - ![Python](https://img.shields.io/badge/-Python-FFCC22?style-for-the-badge&logo=python)
 - ![C++](https://img.shields.io/badge/-C++-00599C?style=for-th..)
 - ![Java](https://img.shields.io/badge/-Java-red?style=for-the-..)
+- ![Google-Colab](https://img.shields.io/badge/-Colab-F9BA00?style-for-the-badge&logo=google-colab)
 - ![Jupyter](https://img.shields.io/badge/-Jupyter-white?style=for..)
 - ![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=f..)
 - ![Linux](https://img.shields.io/badge/-Linux-white?style=for-t..)
