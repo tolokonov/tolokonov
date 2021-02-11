@@ -16,3 +16,11 @@ Some info about me:
 - ![Java](https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=java)
 - ![Intellij-IDEA](https://img.shields.io/badge/-Intellij_IDEA-gray?style=for-the-badge&logo=intellij-idea)
 - ![Android-Studio](https://img.shields.io/badge/-Android_Studio-white?style=for-the-badge&logo=android-studio)
+
+## 𝗦𝘁𝗮𝘁𝘀
+
+![Tolokonov's github stats](https://github-readme-stats.vercel.app/api?username=tolokonov&show_icons=true&theme=dracula)
+
+## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
+
+![visitors](https://tolokonov-visitor-badge.glitch.me/badge?page_id=tolokonov.tolokonov)
