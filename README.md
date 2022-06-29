@@ -4,7 +4,7 @@
 Some info about me:
 
 - 🔭 I work with my team in the organisation - Studio 22
-- 🌱 I’m a 3rd year student
+- 🌱 I’m a 4th year student
 - ⚒️ I have been a data analyst intern at Sber Solutions for 6 months
 - 👯 I’m looking to collaborate on with developers to create new joint projects
 - 💬 Ask me about computer vision
@@ -21,3 +21,5 @@ Some info about me:
 ## 𝗦𝘁𝗮𝘁𝘀
 
 ![Tolokonov's github stats](https://github-readme-stats.vercel.app/api?username=tolokonov&show_icons=true&theme=dracula)
+## LeetCode
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=tolokonov)](https://github.com/KnlnKS/leetcode-stats)
