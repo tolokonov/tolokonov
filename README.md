@@ -4,8 +4,7 @@
 Some info about me:
 
 - ⚒️ I have been a data analyst at Sber Solutions for 18 months and have 2 years expiriense as a data scientist at Sber
-- 🌱 I’m a 2nd year master degree student at HSE FCS
-- 👯 I’m looking to collaborate on with developers to create new joint projects
+- 🌱 I have a master degree (Faculty of Computer Science Higher School of Economics)
 - 📫 How to reach me: itolokonov@mail.ru
 
 ## 𝗦𝘁𝗮𝘁𝘀
