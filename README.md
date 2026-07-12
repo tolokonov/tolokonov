@@ -3,7 +3,7 @@
 
 Some info about me:
 
-- ⚒️ I have been a data analyst at Sber Solutions for 18 months and have 2 years expiriense as a data scientist at Sber
+- ⚒️ I have been a data analyst at Sber Solutions for 18 months and have 4 years expiriense as a data scientist at Sber
 - 🌱 I have a master degree (Faculty of Computer Science Higher School of Economics)
 - 📫 How to reach me: itolokonov@mail.ru
 
